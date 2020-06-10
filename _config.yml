@@ -1,6 +1,9 @@
 title: New First Web page
 author: Sebastian Cartagena
 email: your-email@domain.com
+
+theme: minima
+
 description: This first wepage will be used to generate newskills to improve the design an fuctoin of a web page
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
